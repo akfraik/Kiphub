@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Kip"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the story of a Kip[academicpages template](https://github.com/kiphub.github.io) and hosted on GitHub pages. I'm not 100% sure why this isn't just totally working perfectly, but I'm going to keep trying.
+This is the story of a Kip, [Kip's page I'm trying to make](https://github.com/kiphub.github.io) and hosted on GitHub pages. I'm not 100% sure why this isn't just totally working perfectly, but I'm going to keep trying.
