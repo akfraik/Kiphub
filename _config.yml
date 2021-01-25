@@ -8,12 +8,12 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Kip / Testing"
-title_separator          : "-"
+title_separator          : " "
 name                     : &name "Kip"
-description              : &description "Alex's Dog"
+description              : &description "Alex's Dog, An Example for the Kelley Lab"
 url                      : https://kiphub.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kiphub.github.io"
+repository               : "akfraik/kiphub.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kipsters"
-  avatar           : "profile.png"
+  avatar           : "Kip.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "akfraik/kiphub"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/Kipinksi"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "thegreatkipinski"
   vine             :
   weibo            :
   xing             :
