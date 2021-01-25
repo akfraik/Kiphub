@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is the story of a Kip, [Kip's page I'm trying to make](https://github.com/akfraik.github.io/kiphub) and hosted on GitHub pages for lab meeting.
+This is the story of a Kip, my dog who has his own Github page [built off of mine](https://akfraik.github.io/) and hosted on GitHub pages for lab meeting.
